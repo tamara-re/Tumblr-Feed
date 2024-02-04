@@ -13,8 +13,6 @@ Time spent: 15 hours spent in total
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 <img src="./Kapture.gif" title="Video Walkthrough" width='' alt="Video Walkthrough" />
 
 
