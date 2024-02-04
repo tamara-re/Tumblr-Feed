@@ -6,23 +6,10 @@ Submitted by: **Tamara Regalado Quiroz**
 
 Time spent: 15 hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+## Features
 
 - [x] App has a configured table view and table view call
 - [x] App populates the table view with data fetched from an API
-
-
-The following **optional** features are implemented:
-
-- [ ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-maybe I could make it look nicer
 
 ## Video Walkthrough
 
@@ -30,9 +17,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 <img src="./Kapture.gif" title="Video Walkthrough" width='' alt="Video Walkthrough" />
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
